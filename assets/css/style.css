@@ -1,0 +1,39 @@
+#jumbotron {
+	background-color: darkslateblue;
+	color: white;
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	font-family: "Kreon";
+}
+
+body {
+    background-color: lightgrey;
+    font-family: "Kreon";
+}
+
+label {
+    font-size: 20px;
+	display: block;
+	color: darkslateblue;
+	
+
+}
+
+#characterSearch {
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#buttons {
+    margin-right: 50px;
+	font-family: "Kreon";
+}
+
+#characterGifs {
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
